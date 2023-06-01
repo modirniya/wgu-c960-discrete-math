@@ -1,3 +1,5 @@
+# Based on the YouTube video "Multiplicative inverses mod n" https://youtu.be/_bRVA5b4sb4
+
 # Number of letters in English alphabet
 ENG_LETTERS = 26
 
